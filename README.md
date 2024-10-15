@@ -19,3 +19,12 @@ a00 a01 a02
 a10 current cell a12
 a20 a21 a22
 ```
+## Requirements
+
+### Requirement 0x00
+
+Create a program that simulates Conway’s Game of Life for a given number of generations, starting from an initial configuration provided as input. The program should output the final configuration of the system.
+
+### Requirement 0x02
+
+Refactor the program from Requirement 0x00 so that the input is read from a file named `in.txt` and the output is written to a file named `out.txt`, using C language functions.
